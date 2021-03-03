@@ -1,4 +1,4 @@
-const App = (): JSX.Element => {
+const App: React.FC = () => {
   return <p>hello</p>;
 };
 
